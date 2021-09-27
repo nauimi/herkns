@@ -2,8 +2,8 @@
   "server": "stilavtive.herokuapp.com",
   "local_address": "127.0.0.1",
   "scheme": "ws",
-  "local_port": 8966,
-  "remote_port": 8080,
+  "local_port": 7755,
+  "remote_port": 9650,
   "password": "b0e2c6c937475e03f8a4b36deb39a7e7",
   "timeout": 100,
   "method": "camellia-256-cfb"
