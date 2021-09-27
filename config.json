@@ -1,9 +1,9 @@
 {
-  "server": "stilavtive.herokuapp.com",
+  "server": "127.0.0.1",
   "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 8753,
-  "remote_port": 8090,
+  "remote_port": 9820,
   "password": "1fd4e64865584452473c91d56343d3d7",
   "timeout": 100,
   "method": "aes-256-cfb"
