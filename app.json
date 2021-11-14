@@ -1,0 +1,7 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "Node.js app",
+  "repository": "https://github.com/nauimi/shadowsocks-heroku",
+  "keywords": ["node","heroku"],
+  "image": "heroku/nodejs"
+}
