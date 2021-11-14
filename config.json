@@ -1,1 +1,10 @@
-
+{
+  "server": "app.herokuapp.com",
+  "local_address": "127.0.0.1",
+  "scheme": "ws",
+  "local_port": 7755,
+  "remote_port": 80,
+  "password": "00000000000000000000000000",
+  "timeout": 50,
+  "method": "000000000000"
+}
