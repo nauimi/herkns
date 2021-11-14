@@ -3,7 +3,7 @@
   "description": "Node.js app",
   "repository": "https://github.com/nauimi/shadowsocks-heroku",
   "keywords": ["node","heroku"],
-  "image": "heroku/nodejs"
+  "image": "heroku/nodejs",
    "env": {
      "METHOD": {
       "description": "Encryption method, due to https blessing, choose the simplest one, default: chacha20-ietf-poly1305, others are（aes-256-cfb,chacha20-ietf-poly1305,salsa20,chacha20-ietf etc.）",
