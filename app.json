@@ -16,6 +16,12 @@
      "PORT": {
       "description": "Connecting port",
       "value": "80"
+    },
+     "ERROR_PAGE_URL": {
+      "value": ""
+    },
+     "MAINTENANCE_PAGE_URL": {
+      "value": ""
     }
   }
 }
