@@ -2,10 +2,10 @@
   "name": "ss-heroku",
   "version": "0.9.10",
   "dependencies": {
-    "bufferutil": "^4.0.1",
-    "https-proxy-agent": "^2.2.3",
-    "minimist": "^1.2.3",
-    "ws": "^6.2.2"
+    "bufferutil": "^4.0.5",
+    "https-proxy-agent": "^5.0.0",
+    "minimist": "^1.2.5",
+    "ws": "^8.2.3"
   },
   "scripts": {
     "start": "node --trace-deprecation server.js -b 0.0.0.0"
